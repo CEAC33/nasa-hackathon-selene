@@ -106,7 +106,6 @@ ENV/
 
 #logs
 logs.txt
-*.txt
 
 #local_settings.py - security config
 local_settings.py
